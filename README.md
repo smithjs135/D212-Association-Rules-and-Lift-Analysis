@@ -3,7 +3,7 @@
 * pandas
 * numpy
 * matplotlib
-* mlxtend(preprocessing, frequent_patterns)
+* mlxtend (preprocessing, frequent_patterns)
 
 ## Research Question
 Are there relationships of purchased prescriptions?  Are there tendencies that patients whom buy one prescription are likely to buy another prescription? 
